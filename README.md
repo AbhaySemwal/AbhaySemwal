@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysemwal" alt="abhaysemwal" /></a> </p>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN Stack Development and Machine Learning with Python**
 
 - 📫 How to reach me **shbhtsemwal@gmail.com**
 
