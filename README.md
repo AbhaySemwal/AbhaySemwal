@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhaysemwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhaysemwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhaysemwal](https://www.linkedin.com/in/abhay-semwal-5092a0226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhaysemwal" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhaysemwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhaysemwal" height="30" width="40" /></a>
 <a href="https://instagram.com/abhay_semwal_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay_semwal_01" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhaysemwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhaysemwal" height="30" width="40" /></a>
