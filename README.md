@@ -31,3 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysemwal&" alt="abhaysemwal" /></p>
 
 
+![Snake animation](https://raw.githubusercontent.com/AbhaySemwal/AbhaySemwal/output/github-contribution-grid-snake-dark.svg)
