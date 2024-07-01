@@ -31,5 +31,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysemwal&" alt="abhaysemwal" /></p>
 ### 🐍 A Snake that crawls through my GitHub contributions
 
-![GitHub Snake Animation](https://github.com/AbhaySemwal/AbhaySemwal/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/AbhaySemwal/AbhaySemwal/raw/output/github-contribution-grid-snake.svg)
+
 
