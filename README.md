@@ -6,8 +6,8 @@
 <p>🤔 I'm currently working on Machine Learning with Python</p>
 
 ## About me:
-- 😄 I'm passionate about every aspect of coding, from designing front-end interfaces to developing robust back-end systems.
-- 🔭 I’m looking to collaborate on commercial projects and startups
+- 😄 I'm passionate about every aspect of coding, from designing front-end interfaces to developing robust back-end systems
+- 🔭 I’m looking to collaborate on commercial projects
 - 📫 How to reach me **shbhtsemwal@gmail.com**
 - 💬 Ask me about **frontend, backend, machine learning and data structures**
 
