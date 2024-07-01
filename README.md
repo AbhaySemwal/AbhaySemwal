@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysemwal&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysemwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysemwal" alt="abhaysemwal" /></a> </p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AbhaySemwal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 💬 Ask me about **frontend, backend, machine learning and data structures**
 
