@@ -19,6 +19,8 @@
 - git
 - SQL, MySQL, NoSQL, PostgreSQL, MongoDB ...
 - LocalStorage, SessionStorage, JWT
+- Machine Learning with Python
+- Scikit-Learn, numpy, pandas, tensorflow ...
 
 ## Connect with me:
 <p align="left">
